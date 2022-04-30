@@ -1,0 +1,43 @@
+/* font-family: Righteous-Regular */
+
+@font-face{
+    font-family: Righteous;
+    src:url(/fonts/Righteous/Righteous-Regular.ttf)
+
+}
+/* font-family: Abel */
+
+@font-face{
+    font-family: Abel;
+    src: url(/fonts/Abel/Abel-Regular.ttf)
+}
+/* font-family: IBM_plex_Sans */
+
+@font-face{
+    font-family: IBM_plex_Sans;
+    src: url(/fonts/IBM_Plex_Sans/IBMPlexSans-ExtraLight.ttf)
+}
+/* font-family: Exo */
+
+@font-face{
+    font-family: Exo;
+    src: url('https://fonts.googleapis.com/css2?family=Exo:wght@200&display=swap')
+
+}
+/* font-family: Architects_Daughter */
+
+@font-face{
+    font-family: Raleway;
+    src: url(/Raleway/Raleway-VariableFont_wght.ttf)
+
+}
+
+@font-face {
+    font-family: Ailerons;
+    src: url(/fonts/Ailerons-Typeface/Ailerons-Typeface.otf);
+}
+
+@font-face {
+    font-family: nexa_boldfree_macroman;
+    src: url(/fonts/ITC-Willow-Font/ITC\ Willow\ Font.ttf);
+}
